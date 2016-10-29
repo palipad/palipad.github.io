@@ -48,3 +48,9 @@ You can embed Palipad in your website easily, it works on `<input>` and `<textar
 ```
 
 Palipad looks fine in [plain HTML](plain), [Bootstrap](bootstrap) and [Foundation](foundation) because it uses standard tags, so you should't need to style it at all.
+
+
+Report issues
+-------------
+
+If you found any issue just report it [here](https://github.com/palipad/palipad.github.io/issues), I'll look into it when I'm free.

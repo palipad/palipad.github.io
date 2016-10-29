@@ -60,7 +60,7 @@
         this.menu = new Menu(this);
 
         this.shiftWait = false;  // shift down and waiting for pure shift up
-        this.paliMode = true;
+        this.paliMode = true;  // TODO: should rename this
         this.maxCaretPosAge = 300;  // half second
         this.caretPosUpdatedTime = -this.maxCaretPosAge;  // force early update
         this.menuBlurDelay = 100;
