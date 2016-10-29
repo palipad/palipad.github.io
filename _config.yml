@@ -1,0 +1,8 @@
+# Site settings
+title: Palipad
+jquery: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+bootstrap: /bootstrap-3.3.7-dist
+foundation: /foundation-6.2.4-essential
+
+# Build settings
+markdown: kramdown

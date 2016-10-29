@@ -1,0 +1,11 @@
+
+To update:
+    https://discourse.suttacentral.net/t/insert-pali-and-sanskrit-characters-with-diacritical-marks-on-discourse-and-operating-systems/311/34
+    googlecode
+
+Interesting:
+    https://github.com/yuku-t/jquery-textcomplete
+    https://twitter.github.io/typeahead.js/
+    https://github.com/component/textarea-caret-position
+
+Documentation:

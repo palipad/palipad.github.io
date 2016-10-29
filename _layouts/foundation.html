@@ -1,0 +1,24 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title|escape }}{% else %}{{ site.title|escape }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ site.foundation }}/css/foundation.css">
+    <link rel="stylesheet" href="{{ site.foundation }}/css/app.css">
+    <script src="{{ site.jquery }}"></script>
+    <script src="/palipad.js"></script>
+  </head>
+  <body>
+    <div class="row">
+      <div class="large-12 columns">
+        {{ content }}
+      </div>
+    </div>
+    <script src="{{ site.foundation }}/js/vendor/jquery.js"></script>
+    <script src="{{ site.foundation }}/js/vendor/what-input.js"></script>
+    <script src="{{ site.foundation }}/js/vendor/foundation.js"></script>
+    <script src="{{ site.foundation }}/js/app.js"></script>
+  </body>
+</html>
